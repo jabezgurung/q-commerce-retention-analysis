@@ -2,6 +2,8 @@
 
 ## 📌 Project Overview
 This project evaluates the critical delivery time thresholds that trigger customer churn within the highly competitive Indian quick-commerce market (e.g., Blinkit, Zepto, Instamart). Using delivery logs and customer purchase histories, this study applies data cleansing pipelines and unsupervised machine learning to identify distinct behavioral segments based on delivery time sensitivity.
+## 📊 Data Source
+The raw dataset used for this analysis was sourced from Kaggle: [Insert Name of Kaggle Dataset Here](Insert the Kaggle URL here). The dataset contains raw delivery logs and customer purchase histories, which were subsequently cleansed and transformed using Python within this project.
 
 ## 🛠️ Tech Stack & Tools
 * **Language:** Python
